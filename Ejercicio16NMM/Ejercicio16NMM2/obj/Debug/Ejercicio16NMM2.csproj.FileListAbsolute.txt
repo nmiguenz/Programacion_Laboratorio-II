@@ -1,0 +1,7 @@
+D:\VisualStudio\Ejercicio16NMM\Ejercicio16NMM2\bin\Debug\Ejercicio16NMM2.exe.config
+D:\VisualStudio\Ejercicio16NMM\Ejercicio16NMM2\bin\Debug\Ejercicio16NMM2.exe
+D:\VisualStudio\Ejercicio16NMM\Ejercicio16NMM2\bin\Debug\Ejercicio16NMM2.pdb
+D:\VisualStudio\Ejercicio16NMM\Ejercicio16NMM2\obj\Debug\Ejercicio16NMM2.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio16NMM\Ejercicio16NMM2\obj\Debug\Ejercicio16NMM2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio16NMM\Ejercicio16NMM2\obj\Debug\Ejercicio16NMM2.exe
+D:\VisualStudio\Ejercicio16NMM\Ejercicio16NMM2\obj\Debug\Ejercicio16NMM2.pdb

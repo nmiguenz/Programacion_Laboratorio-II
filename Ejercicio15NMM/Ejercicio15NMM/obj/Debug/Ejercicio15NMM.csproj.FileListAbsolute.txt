@@ -1,0 +1,7 @@
+D:\VisualStudio\Ejercicio15NMM\Ejercicio15NMM\obj\Debug\Ejercicio15NMM.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio15NMM\Ejercicio15NMM\obj\Debug\Ejercicio15NMM.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio15NMM\Ejercicio15NMM\bin\Debug\Ejercicio15NMM.exe.config
+D:\VisualStudio\Ejercicio15NMM\Ejercicio15NMM\bin\Debug\Ejercicio15NMM.exe
+D:\VisualStudio\Ejercicio15NMM\Ejercicio15NMM\bin\Debug\Ejercicio15NMM.pdb
+D:\VisualStudio\Ejercicio15NMM\Ejercicio15NMM\obj\Debug\Ejercicio15NMM.exe
+D:\VisualStudio\Ejercicio15NMM\Ejercicio15NMM\obj\Debug\Ejercicio15NMM.pdb
