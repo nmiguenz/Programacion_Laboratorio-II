@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\Ejercicio2NMM\Ejercicio2NMM\bin\Debug\Ejercicio2NMM.exe.config
+C:\Users\Nico\source\repos\Ejercicio2NMM\Ejercicio2NMM\bin\Debug\Ejercicio2NMM.exe
+C:\Users\Nico\source\repos\Ejercicio2NMM\Ejercicio2NMM\bin\Debug\Ejercicio2NMM.pdb
+C:\Users\Nico\source\repos\Ejercicio2NMM\Ejercicio2NMM\obj\Debug\Ejercicio2NMM.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Ejercicio2NMM\Ejercicio2NMM\obj\Debug\Ejercicio2NMM.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Ejercicio2NMM\Ejercicio2NMM\obj\Debug\Ejercicio2NMM.exe
+C:\Users\Nico\source\repos\Ejercicio2NMM\Ejercicio2NMM\obj\Debug\Ejercicio2NMM.pdb
