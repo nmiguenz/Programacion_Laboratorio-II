@@ -1,0 +1,7 @@
+D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\bin\Debug\EjercicioClase5NMM.exe.config
+D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\bin\Debug\EjercicioClase5NMM.exe
+D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\bin\Debug\EjercicioClase5NMM.pdb
+D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.csprojAssemblyReference.cache
+D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.exe
+D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.pdb
