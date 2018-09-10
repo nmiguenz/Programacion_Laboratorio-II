@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\Ejercicio4NMM\Ejercicio4NMM\bin\Debug\Ejercicio4NMM.exe.config
+C:\Users\Nico\source\repos\Ejercicio4NMM\Ejercicio4NMM\bin\Debug\Ejercicio4NMM.exe
+C:\Users\Nico\source\repos\Ejercicio4NMM\Ejercicio4NMM\bin\Debug\Ejercicio4NMM.pdb
+C:\Users\Nico\source\repos\Ejercicio4NMM\Ejercicio4NMM\obj\Debug\Ejercicio4NMM.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Ejercicio4NMM\Ejercicio4NMM\obj\Debug\Ejercicio4NMM.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Ejercicio4NMM\Ejercicio4NMM\obj\Debug\Ejercicio4NMM.exe
+C:\Users\Nico\source\repos\Ejercicio4NMM\Ejercicio4NMM\obj\Debug\Ejercicio4NMM.pdb
