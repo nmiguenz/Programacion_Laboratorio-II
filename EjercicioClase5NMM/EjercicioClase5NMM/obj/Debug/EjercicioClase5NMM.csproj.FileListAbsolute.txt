@@ -5,3 +5,10 @@ D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5N
 D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.csproj.CoreCompileInputs.cache
 D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.exe
 D:\VisualStudio\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.pdb
+C:\Users\Nico\source\repos\Programacion_Laboratorio-II\EjercicioClase5NMM\EjercicioClase5NMM\bin\Debug\EjercicioClase5NMM.exe.config
+C:\Users\Nico\source\repos\Programacion_Laboratorio-II\EjercicioClase5NMM\EjercicioClase5NMM\bin\Debug\EjercicioClase5NMM.exe
+C:\Users\Nico\source\repos\Programacion_Laboratorio-II\EjercicioClase5NMM\EjercicioClase5NMM\bin\Debug\EjercicioClase5NMM.pdb
+C:\Users\Nico\source\repos\Programacion_Laboratorio-II\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Programacion_Laboratorio-II\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Programacion_Laboratorio-II\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.exe
+C:\Users\Nico\source\repos\Programacion_Laboratorio-II\EjercicioClase5NMM\EjercicioClase5NMM\obj\Debug\EjercicioClase5NMM.pdb
