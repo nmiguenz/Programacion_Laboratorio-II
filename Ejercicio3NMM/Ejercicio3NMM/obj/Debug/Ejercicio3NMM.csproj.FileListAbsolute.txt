@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\Ejercicio3NMM\Ejercicio3NMM\bin\Debug\Ejercicio3NMM.exe.config
+C:\Users\Nico\source\repos\Ejercicio3NMM\Ejercicio3NMM\bin\Debug\Ejercicio3NMM.exe
+C:\Users\Nico\source\repos\Ejercicio3NMM\Ejercicio3NMM\bin\Debug\Ejercicio3NMM.pdb
+C:\Users\Nico\source\repos\Ejercicio3NMM\Ejercicio3NMM\obj\Debug\Ejercicio3NMM.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Ejercicio3NMM\Ejercicio3NMM\obj\Debug\Ejercicio3NMM.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Ejercicio3NMM\Ejercicio3NMM\obj\Debug\Ejercicio3NMM.exe
+C:\Users\Nico\source\repos\Ejercicio3NMM\Ejercicio3NMM\obj\Debug\Ejercicio3NMM.pdb
