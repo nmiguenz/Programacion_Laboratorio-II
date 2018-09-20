@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\Ejercicio6NMM\Ejercicio6NMM\bin\Debug\Ejercicio6NMM.exe.config
+C:\Users\Nico\source\repos\Ejercicio6NMM\Ejercicio6NMM\bin\Debug\Ejercicio6NMM.exe
+C:\Users\Nico\source\repos\Ejercicio6NMM\Ejercicio6NMM\bin\Debug\Ejercicio6NMM.pdb
+C:\Users\Nico\source\repos\Ejercicio6NMM\Ejercicio6NMM\obj\Debug\Ejercicio6NMM.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Ejercicio6NMM\Ejercicio6NMM\obj\Debug\Ejercicio6NMM.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Ejercicio6NMM\Ejercicio6NMM\obj\Debug\Ejercicio6NMM.exe
+C:\Users\Nico\source\repos\Ejercicio6NMM\Ejercicio6NMM\obj\Debug\Ejercicio6NMM.pdb
