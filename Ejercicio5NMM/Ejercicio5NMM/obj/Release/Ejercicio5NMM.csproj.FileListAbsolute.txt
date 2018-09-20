@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\Ejercicio5NMM\Ejercicio5NMM\bin\Release\Ejercicio5NMM.exe.config
+C:\Users\Nico\source\repos\Ejercicio5NMM\Ejercicio5NMM\bin\Release\Ejercicio5NMM.exe
+C:\Users\Nico\source\repos\Ejercicio5NMM\Ejercicio5NMM\bin\Release\Ejercicio5NMM.pdb
+C:\Users\Nico\source\repos\Ejercicio5NMM\Ejercicio5NMM\obj\Release\Ejercicio5NMM.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Ejercicio5NMM\Ejercicio5NMM\obj\Release\Ejercicio5NMM.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Ejercicio5NMM\Ejercicio5NMM\obj\Release\Ejercicio5NMM.exe
+C:\Users\Nico\source\repos\Ejercicio5NMM\Ejercicio5NMM\obj\Release\Ejercicio5NMM.pdb
