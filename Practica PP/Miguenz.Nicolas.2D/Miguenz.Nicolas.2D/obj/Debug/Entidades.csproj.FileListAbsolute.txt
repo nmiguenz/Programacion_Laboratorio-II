@@ -1,0 +1,6 @@
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\Miguenz.Nicolas.2D\bin\Debug\Miguenz.Nicolas.2D.dll
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\Miguenz.Nicolas.2D\bin\Debug\Miguenz.Nicolas.2D.pdb
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\Miguenz.Nicolas.2D\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\Miguenz.Nicolas.2D\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\Miguenz.Nicolas.2D\obj\Debug\Miguenz.Nicolas.2D.dll
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\Miguenz.Nicolas.2D\obj\Debug\Miguenz.Nicolas.2D.pdb

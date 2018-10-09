@@ -1,0 +1,16 @@
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\bin\Debug\Miguenz.Nicolas.2D.dll
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\bin\Debug\VistaConsola.exe
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\bin\Debug\Miguenz.Nicolas.2D.pdb
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\bin\Debug\VistaConsola.pdb
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\bin\Debug\VistaConsola.exe.config
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\obj\Debug\VistaForm.VistaDelCurso.resources
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaForm\obj\Debug\VistaForm.pdb

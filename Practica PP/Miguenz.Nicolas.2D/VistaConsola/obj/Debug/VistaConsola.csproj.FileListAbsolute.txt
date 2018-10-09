@@ -1,0 +1,10 @@
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\bin\Debug\Miguenz.Nicolas.2D.dll
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\bin\Debug\Miguenz.Nicolas.2D.pdb
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Nico\source\repos\Miguenz.Nicolas.2D\VistaConsola\obj\Debug\VistaConsola.pdb
