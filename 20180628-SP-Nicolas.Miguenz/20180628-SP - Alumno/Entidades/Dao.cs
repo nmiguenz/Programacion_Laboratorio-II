@@ -7,22 +7,38 @@ using System.Data.SqlClient;
 
 namespace Entidades
 {
-    public class Dao<Votacion> : IArchivos<Votacion>
+    public class Dao : IArchivos<Votacion>
     {
         public bool Guardar(string rutaArchivo, Votacion objeto)
         {
             string connectionStr = "Data Source = ./SQLEXPRESS; Initial Catalog= votacion-sp-2018; Integrated Security=True";
-            SqlConnection conexion;
-
-            conexion = new SqlConnection(connectionStr);
             string consulta;
+            consulta = String.Format("INSERT INTO Votaciones (nombreLey, afirmativos, negativos, abstenciones, nombreAlumno) " +
+                                    "VALUES ('{0}',{1},{2},{3})", objeto.NombreLey, objeto.ContadorAfirmativo,
+                                    objeto.ContadorNegativo, objeto.ContadorAbstencion, "Nicolás Miguenz");
+            SqlConnection conexion = null;
+            SqlCommand comando;
 
             try
             {
-                consulta = String.Format("INSERT INTO Votaciones (nombreLey, afirmativos, negativos, abstenciones, nombreAlumno) VALUES ('{0}',{1},{2},{3},'{4}')", objeto.)
+                conexion = new SqlConnection(connectionStr);
+                comando = new SqlCommand();
+                comando.CommandType = System.Data.CommandType.Text;
+                comando.CommandText = consulta;
+                conexion.Open();
+                comando.ExecuteNonQuery();
             }
-            
-
+            catch (Exception e)
+            {
+                //Relanza la excepcion capturada
+                throw (e);
+            }
+            finally
+            {
+                if (!(conexion == null))
+                    conexion.Close();
+            }
+            return true;
         }
 
         public Votacion Leer(string rutaArchivo)

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 using Entidades;
+using Excepcion;
 
 namespace _20180628_SP.v1
 {
@@ -88,7 +89,10 @@ namespace _20180628_SP.v1
                 {
                     MessageBox.Show((int.Parse(lblAfirmativo.Text) - int.Parse(lblNegativo.Text)) > 0 ? "Es Ley" : "No es Ley", txtLeyNombre.Text);
                     // Guardar resultados
-
+                    Dao dao = new Dao();
+                    SerializarXML<Votacion> serializarXML = new SerializarXML<Votacion>();
+                    dao.Guardar("Votacion", this.votacion);
+                    serializarXML.Guardar("Votacion.xml", this.votacion);
                 }
             }
         }

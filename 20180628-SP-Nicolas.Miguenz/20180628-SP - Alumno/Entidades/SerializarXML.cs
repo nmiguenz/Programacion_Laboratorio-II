@@ -10,21 +10,30 @@ using Excepcion;
 
 namespace Entidades
 {
-    class SerializarXML<T>:IArchivos<T>
+    public class SerializarXML<T>:IArchivos<T>
     {
         public T Leer(string rutaArchivo)
         {
             T leido;
-            XmlTextReader reader;
+            XmlTextReader reader = null;
             XmlSerializer serializa;
 
-            reader = new XmlTextReader(rutaArchivo);
+            try
+            {
+                reader = new XmlTextReader(rutaArchivo);
+                serializa = new XmlSerializer(typeof(T));
+                leido = (T)serializa.Deserialize(reader);
+            }
+            catch (Exception ex)
+            {
+                throw new ErrorArchivoException();
+            }
+            finally
+            {
 
-            serializa = new XmlSerializer(typeof(T));
-
-            leido = (T)serializa.Deserialize(reader);
-
-            reader.Close();
+                reader.Close();
+            }
+            
             return leido;
         }
         public bool Guardar(string rutaArchivo, T objeto)
@@ -43,6 +52,8 @@ namespace Entidades
             catch(Exception ex)
             {
                 throw new ErrorArchivoException();
+                //Segun la forma en que ponga la excepcion
+                //throw new ErrorArchivoException(ex.Message, ex);
             }
             finally
             {

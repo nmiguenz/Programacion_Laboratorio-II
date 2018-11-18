@@ -9,3 +9,12 @@ D:\VisualStudio\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\D
 D:\VisualStudio\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\VisualStudio\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.dll
 D:\VisualStudio\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\bin\Debug\ErrorArchivoException.dll
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\bin\Debug\ErrorArchivoException.pdb
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csproj.CopyComplete

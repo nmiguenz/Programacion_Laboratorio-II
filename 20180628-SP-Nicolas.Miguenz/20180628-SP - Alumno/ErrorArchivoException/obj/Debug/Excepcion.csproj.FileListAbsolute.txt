@@ -1,0 +1,6 @@
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\ErrorArchivoException\bin\Debug\ErrorArchivoException.dll
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\ErrorArchivoException\bin\Debug\ErrorArchivoException.pdb
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\ErrorArchivoException\obj\Debug\Excepcion.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\ErrorArchivoException\obj\Debug\Excepcion.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\ErrorArchivoException\obj\Debug\ErrorArchivoException.dll
+C:\Users\Nico\Desktop\Laboratorio 2\GIT\Programacion_Laboratorio-II\20180628-SP-Nicolas.Miguenz\20180628-SP - Alumno\ErrorArchivoException\obj\Debug\ErrorArchivoException.pdb
