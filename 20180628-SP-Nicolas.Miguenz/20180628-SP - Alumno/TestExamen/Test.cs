@@ -12,7 +12,6 @@ namespace TestExamen
         [TestMethod]
         public void TestSerializar()
         {
-            /*
             Votacion vot = new Votacion();
             SerializarXML<Votacion> serializarXML = new SerializarXML<Votacion>();
 
@@ -20,19 +19,19 @@ namespace TestExamen
             {
                 serializarXML.Guardar("Votacion.xml", vot);
             }
-            catch(ErrorArchivoException1 e)
+            catch(Exception e)
             {
+                Assert.IsInstanceOfType(e, typeof(ErrorArchivoException));
             }
 
             try
             {
                 serializarXML.Leer("Votacion.xml");
             }
-            catch (ErrorArchivoException e)
+            catch (Exception e)
             {
-                
+                Assert.IsInstanceOfType(e, typeof(ErrorArchivoException));
             }
-            */
             
         }
 
