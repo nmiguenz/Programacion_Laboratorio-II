@@ -1,0 +1,5 @@
+D:\UTN\Laboratorio II\Final\Prácticas\20180628-SP\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.dll
+D:\UTN\Laboratorio II\Final\Prácticas\20180628-SP\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.pdb
+D:\UTN\Laboratorio II\Final\Prácticas\20180628-SP\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\UTN\Laboratorio II\Final\Prácticas\20180628-SP\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.dll
+D:\UTN\Laboratorio II\Final\Prácticas\20180628-SP\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.pdb

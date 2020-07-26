@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "final.Miguenz", "final.Miguenz\final.Miguenz.csproj", "{C33CA053-6370-410B-96DF-40E96FD82584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{46E49372-1C84-4C91-9331-5C8CBB170085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33CA053-6370-410B-96DF-40E96FD82584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33CA053-6370-410B-96DF-40E96FD82584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33CA053-6370-410B-96DF-40E96FD82584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33CA053-6370-410B-96DF-40E96FD82584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E49372-1C84-4C91-9331-5C8CBB170085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E49372-1C84-4C91-9331-5C8CBB170085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E49372-1C84-4C91-9331-5C8CBB170085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E49372-1C84-4C91-9331-5C8CBB170085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7065A2F-DDDE-437A-9E70-54FE0CF55CBF}
+	EndGlobalSection
+EndGlobal
