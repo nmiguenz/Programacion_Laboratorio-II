@@ -1,0 +1,9 @@
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\bin\Debug\NMiguenz02.02.2020.exe.config
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\bin\Debug\NMiguenz02.02.2020.exe
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\bin\Debug\NMiguenz02.02.2020.pdb
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\obj\Debug\NMiguenz02._02._2020.frmRelojes.resources
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\obj\Debug\NMiguenz02._02._2020.Properties.Resources.resources
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.exe
+C:\Users\nicol\source\repos\NMiguenz02.02.2020\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.pdb
