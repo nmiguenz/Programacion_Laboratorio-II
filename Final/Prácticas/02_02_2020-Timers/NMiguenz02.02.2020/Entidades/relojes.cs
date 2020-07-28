@@ -74,9 +74,10 @@ namespace NMiguenz02._02._2020.Entidades
         //Operador +: creará un nuevo objeto del tipo Item y lo cargará al diccionario hilos
         public static Relojes operator +(Relojes r, Reloj item)
         {
+         
             Item valor = new Item(r.referencia, item);
             r.hilos.Add(item, valor);
-
+           
             return r;
         }
 
