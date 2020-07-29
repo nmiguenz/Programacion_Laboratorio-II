@@ -1,0 +1,5 @@
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Entidades\bin\Debug\Entidades.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Entidades\bin\Debug\Entidades.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Entidades\obj\Debug\Entidades.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Entidades\obj\Debug\Entidades.pdb

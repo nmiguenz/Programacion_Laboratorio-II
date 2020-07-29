@@ -1,0 +1,17 @@
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\20181122-SP.exe.config
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\20181122-SP.exe
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\20181122-SP.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\Archivos.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\Entidades.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\VistaPatentes.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\Archivos.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\Entidades.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\VistaPatentes.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\bin\Debug\VistaPatentes.dll.config
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\obj\Debug\20181122-SP.csprojAssemblyReference.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\obj\Debug\_20181122_SP.FrmPpal.resources
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\obj\Debug\_20181122_SP.Properties.Resources.resources
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\obj\Debug\20181122-SP.csproj.GenerateResource.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\obj\Debug\20181122-SP.csproj.CopyComplete
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\obj\Debug\20181122-SP.exe
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\20181122-SP\obj\Debug\20181122-SP.pdb
