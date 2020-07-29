@@ -41,6 +41,7 @@ namespace Patentes
                     // Llamar al hilo principal 
                     if (this.InvokeRequired)
                     {
+                        //El delegado
                         MostrarPatente d = new MostrarPatente(this.MostrarPatente);
                         this.Invoke(d, new object[] {patente});
                     }

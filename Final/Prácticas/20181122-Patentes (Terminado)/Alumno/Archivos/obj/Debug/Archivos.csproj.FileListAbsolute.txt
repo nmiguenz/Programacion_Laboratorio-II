@@ -6,3 +6,11 @@ D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Arc
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Archivos\obj\Debug\Archivos.dll
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Archivos\obj\Debug\Archivos.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\Archivos\bin\Debug\Archivos.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\Archivos\bin\Debug\Archivos.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\Archivos\bin\Debug\Entidades.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\Archivos\bin\Debug\Entidades.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\Archivos\obj\Debug\Archivos.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\Archivos\obj\Debug\Archivos.pdb

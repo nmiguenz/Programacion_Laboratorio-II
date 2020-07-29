@@ -17,37 +17,44 @@ namespace Archivos
 
 
         //Sql recibirá el nombre de la tabla a consultar (patentes) y una cola con los datos.
+        #region Constructores
         public Sql()
         {
-            String connectionStr = "Data Source=.\\SQLEXPRESS;Initial Catalog=patentes-sp-2018;Integrated Security=True";
-            //instacia de la conexion
-            conexion = new SqlConnection(connectionStr);
-
-            //instancia del comando
+            // CREO UN OBJETO SQLCONECTION
+            this.conexion = new SqlConnection("Data Source=.\\SQLEXPRESS;Initial Catalog=patentes-sp-2018;Integrated Security=True");
+            // CREO UN OBJETO SQLCOMMAND
             this.comando = new SqlCommand();
+            // INDICO EL TIPO DE COMANDO
             this.comando.CommandType = System.Data.CommandType.Text;
-            this.comando.Connection = conexion;
+            // ESTABLEZCO LA CONEXION
+            this.comando.Connection = this.conexion;
         }
+        #endregion
 
         /// <summary>
         /// Guarda las patentes que se agregan a la cola en la tabla (patentes) de la DBO
         /// </summary>
         /// <param name="tabla"></param>
         /// <param name="datos"></param>
+        /*
         public void Guardar(string tabla, Queue<Patente> datos)
         {
+            string str = "";
+            foreach (Patente item in datos)
+            {
+                // LE PASO LA INSTRUCCION SQL
+                str = "INSERT INTO" + tabla + "(patente,tipo)" + "VALUES" + "('"+ item.CodigoPatente + "','"+ item.TipoCodigo.ToString() + "')";
+                    
+            }
             try
             {
+                // LE PASO LA INSTRUCCION SQL
+                this.comando.CommandText = str;
+                // ABRO LA CONEXION A LA BD
                 this.conexion.Open();
-                foreach (Patente item in datos)
-                {
-
-                    //Paso la instruccion SQL a procesar
-                    this.comando.CommandText = String.Format("INSERT INTO ({0})" + "VALUES ('{1}')", tabla, item);
-                    
-                    //Ejecuta la consulta SQL
-                    comando.ExecuteNonQuery();
-                }
+                //EJECUTO EL COMANDO
+                comando.ExecuteNonQuery();
+               
             }
             catch (Exception e)
             {
@@ -56,18 +63,54 @@ namespace Archivos
             }
             finally
             {
-                if (conexion != null)
+                if (this.conexion.State == ConnectionState.Open)
                 {
-                    conexion.Close();
+                    this.conexion.Close();
                 }
             }
         }
+        */
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="tabla"></param>
-        /// <param name="datos"></param>
+        public void Guardar(string tabla, Queue<Patente> datos)
+        {
+            //string sql = "INSERT INTO " + tabla + " (patente,tipo) VALUES";
+            //foreach (Patente p in datos)
+            //{
+            //    sql = sql + "('" + p.CodigoPatente + "','" + p.TipoCodigo.ToString() + "'),";
+            //}
+            string sql = "INSERT INTO " + tabla + " (patente,tipo) ";
+            foreach (Patente p in datos)
+            {
+                sql = sql + "SELECT '" + p.CodigoPatente + "','" + p.TipoCodigo.ToString() + "' UNION ALL ";
+            }
+
+            try
+            {
+                //Recupera la cadena any
+                sql = sql.Substring(0, sql.Length - 11);
+                // LE PASO LA INSTRUCCION SQL
+                this.comando.CommandText = sql;
+                // ABRO LA CONEXION A LA BD
+                this.conexion.Open();
+                // EJECUTO EL COMMAND
+                this.comando.ExecuteNonQuery();
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                if (this.conexion.State == ConnectionState.Open)
+                    this.conexion.Close();
+            }
+        }
+
+                /// <summary>
+                /// 
+                /// </summary>
+                /// <param name="tabla"></param>
+                /// <param name="datos"></param>
         public void Leer(string tabla, out Queue<Patente> datos)
         {
             Queue<Patente> cola = new Queue<Patente>();

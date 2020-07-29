@@ -32,3 +32,15 @@ D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\Vis
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll.config
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\bin\Debug\VistaPatentes.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\bin\Debug\Entidades.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\bin\Debug\Entidades.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csprojAssemblyReference.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\obj\Debug\VistaPatentes.Properties.Resources.resources
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\obj\Debug\Patentes.VistaPatente.resources
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\20181122-Patentes (Terminado)\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb
