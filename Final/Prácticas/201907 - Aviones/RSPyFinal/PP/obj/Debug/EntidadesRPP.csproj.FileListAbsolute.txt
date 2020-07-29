@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Desktop\FInalLABO2\PP\obj\Debug\EntidadesRPP.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\FInalLABO2\PP\obj\Debug\EntidadesRPP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FInalLABO2\PP\obj\Debug\PP.dll
+C:\Users\LENOVO\Desktop\FInalLABO2\PP\obj\Debug\PP.pdb
