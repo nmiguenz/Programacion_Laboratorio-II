@@ -16,3 +16,12 @@ D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers\NMiguenz02
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.csproj.GenerateResource.cache
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.exe
 D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\bin\Debug\NMiguenz02.02.2020.exe.config
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\bin\Debug\NMiguenz02.02.2020.exe
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\bin\Debug\NMiguenz02.02.2020.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.csprojAssemblyReference.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\obj\Debug\NMiguenz02._02._2020.frmRelojes.resources
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\obj\Debug\NMiguenz02._02._2020.Properties.Resources.resources
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.csproj.GenerateResource.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.exe
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\02_02_2020-Timers (terminado)\NMiguenz02.02.2020\obj\Debug\NMiguenz02.02.2020.pdb
