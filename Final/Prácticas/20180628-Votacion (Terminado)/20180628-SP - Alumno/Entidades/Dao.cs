@@ -37,11 +37,13 @@ namespace Entidades
                 comando.ExecuteNonQuery();
                 todoOk = true;
             }
+            
             catch (Exception e)
             {
                 //relanza la excepcion capturada
                 throw (e);
             }
+
             finally
             {
                 if (conexion != null)

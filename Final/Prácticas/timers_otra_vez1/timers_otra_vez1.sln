@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{05BE8D27-3B27-4C13-8FF4-8922EEB1DC95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{34768692-FC2D-4799-A772-734EF7B0CCEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testHilos", "testHilos\testHilos.csproj", "{6AF61607-F260-4C0E-A58A-0BDBB868E1F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BE8D27-3B27-4C13-8FF4-8922EEB1DC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BE8D27-3B27-4C13-8FF4-8922EEB1DC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BE8D27-3B27-4C13-8FF4-8922EEB1DC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BE8D27-3B27-4C13-8FF4-8922EEB1DC95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34768692-FC2D-4799-A772-734EF7B0CCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34768692-FC2D-4799-A772-734EF7B0CCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34768692-FC2D-4799-A772-734EF7B0CCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34768692-FC2D-4799-A772-734EF7B0CCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF61607-F260-4C0E-A58A-0BDBB868E1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF61607-F260-4C0E-A58A-0BDBB868E1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF61607-F260-4C0E-A58A-0BDBB868E1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF61607-F260-4C0E-A58A-0BDBB868E1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11766C45-8A0A-4954-9D6F-B12A001A785A}
+	EndGlobalSection
+EndGlobal

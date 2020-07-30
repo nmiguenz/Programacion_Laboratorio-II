@@ -23,7 +23,6 @@ namespace Entidades
                 ser = new XmlSerializer(typeof(T));
                 writer = new StreamWriter(rutaArchivo);
                 ser.Serialize(writer, objeto);
-                writer.Close();
             }
             catch (Exception e)
             {
@@ -48,9 +47,8 @@ namespace Entidades
             try
             {
                 ser = new XmlSerializer(typeof(T));
-                TextReader reader = new StreamReader(rutaArchivo);
-                objetoLeido = (T)ser.Deserialize(reader);
-                reader.Close();
+                file = new StreamReader(rutaArchivo);
+                objetoLeido = (T)ser.Deserialize(file);
             }
             catch (Exception e)
             {

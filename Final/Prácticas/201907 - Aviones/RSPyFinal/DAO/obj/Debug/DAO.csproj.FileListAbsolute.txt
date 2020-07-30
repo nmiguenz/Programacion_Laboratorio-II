@@ -1,9 +1,0 @@
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\bin\Debug\DAO.dll
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\bin\Debug\DAO.pdb
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\bin\Debug\PP.dll
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\bin\Debug\PP.pdb
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\obj\Debug\DAO.csproj.CopyComplete
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\obj\Debug\DAO.dll
-C:\Users\LENOVO\Desktop\FinalLaboII\DAO\obj\Debug\DAO.pdb

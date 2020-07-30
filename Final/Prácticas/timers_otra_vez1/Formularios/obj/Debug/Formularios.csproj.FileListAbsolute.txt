@@ -1,0 +1,13 @@
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\obj\Debug\Formularios.Form1.resources
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\bin\Debug\Formularios.exe.config
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\bin\Debug\Formularios.exe
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\bin\Debug\Formularios.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\bin\Debug\Entidades.dll
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\bin\Debug\Entidades.pdb
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\obj\Debug\Formularios.exe
+D:\UTN\Programacion_Laboratorio-II\Final\Prácticas\timers_otra_vez1\Formularios\obj\Debug\Formularios.pdb
